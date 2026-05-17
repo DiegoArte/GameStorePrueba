@@ -28,7 +28,7 @@ export default function App() {
     <SafeAreaView style={styles.container}>
       <View style={styles.header}>
         <View>
-          <Text style={styles.greeting}>Bienvenido de vuelta,</Text>
+          <Text style={styles.greeting}>Bienvenido de vueltaa,</Text>
           <Text style={styles.headerTitle}>Game <Text style={styles.accentText}>Store</Text></Text>
         </View>
         <Image source={{uri: 'https://fotos.perfil.com/2022/03/23/trim/720/410/ibai-le-pidio-a-epic-games-un-nuevo-modo-para-fortnite-tras-sacar-la-construccion-1331203.jpg'}} style={styles.profilePic} />
