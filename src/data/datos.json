@@ -1,0 +1,122 @@
+[
+  { 
+    "id": "1", 
+    "titulo": "Zelda: BotW",
+    "consola": "Switch",
+    "precio": "$1,200 MXN",
+    "img": "https://media.es.wired.com/photos/638fd68c7db986e0c2d6b19a/4:3/w_2132,h_1599,c_limit/Breath-of-the-Wild-Casual-Gamer-Culture.jpg",
+    "descripcion": "Explora un vasto mundo abierto lleno de misterios en esta aclamada aventura de Link en un reino de Hyrule en ruinas."
+  },
+  { 
+    "id": "2", 
+    "titulo": "Halo Infinite", 
+    "consola": "Xbox",
+    "precio": "$1,100 MXN",
+    "img": "https://m.media-amazon.com/images/I/81r6IF9GNNL._AC_UF1000,1000_QL80_.jpg",
+    "descripcion": "Conviértete en el Master Chief y enfrenta a los Desterrados en una emocionante campaña de mundo abierto y multijugador."
+  },
+  { 
+    "id": "3", 
+    "titulo": "God of War", 
+    "consola": "PS5",
+    "precio": "$1,400 MXN",
+    "img": "https://sm.ign.com/ign_latam/game/g/god-of-war/god-of-war-ragnarok_e91t.jpg",
+    "descripcion": "Acompaña a Kratos y Atreus en su épico viaje a través de los reinos de la mitología nórdica enfrentando a dioses y monstruos."
+  },
+  { 
+    "id": "4", 
+    "titulo": "Spider-Man 2", 
+    "consola": "PS5",
+    "precio": "$1,350 MXN",
+    "img": "https://image.api.playstation.com/vulcan/ap/rnd/202306/1219/2028edeaf4c0b60142550a3d6e024b6009853ceb9f51591e.jpg",
+    "descripcion": "Balancéate por Nueva York con Peter Parker y Miles Morales para enfrentarte al temible Venom y salvar la ciudad."
+  },
+  { 
+    "id": "5", 
+    "titulo": "Mario Kart 8", 
+    "consola": "Switch",
+    "precio": "$1,150 MXN",
+    "img": "https://m.media-amazon.com/images/I/71C9pOGlKtL._AC_UF1000,1000_QL80_.jpg",
+    "descripcion": "Compite en trepidantes carreras antigravedad con tus personajes favoritos de Nintendo en pistas llenas de diversión."
+  },
+  { 
+    "id": "6", 
+    "titulo": "Super Mario Odyssey", 
+    "consola": "Switch",
+    "precio": "$1,100 MXN",
+    "img": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000001130/c42553b4fd0312c31e70ec7468c6c9bccd739f340152925b9600631f2d29f8b5",
+    "descripcion": "Viaja a través de increíbles mundos junto a Cappy en una aventura en 3D repleta de secretos y sorpresas."
+  },
+  { 
+    "id": "7", 
+    "titulo": "Elden Ring", 
+    "consola": "PS5",
+    "precio": "$1,250 MXN",
+    "img": "https://www.nintendo.com/eu/media/images/assets/nintendo_switch_2_games/eldenringtarnishededition/2x1_NSwitch2_EldenRing.jpg",
+    "descripcion": "Álzate, Sinluz, y déjate guiar por la gracia para blandir el poder del Círculo de Elden en las Tierras Intermedias."
+  },
+  { 
+    "id": "8", 
+    "titulo": "Forza Horizon 5", 
+    "consola": "Xbox",
+    "precio": "$1,050 MXN",
+    "img": "https://image.api.playstation.com/vulcan/ap/rnd/202502/1900/631436cfbc1d64659c778e3783f29fafad6022145e0ffec8.jpg",
+    "descripcion": "Explora los vibrantes e históricos paisajes de mundo abierto de México al volante de los mejores autos del mundo."
+  },
+  { 
+    "id": "9", 
+    "titulo": "The Last of Us Part II", 
+    "consola": "PS5",
+    "precio": "$999 MXN",
+    "img": "https://cdn1.epicgames.com/offer/7713e3fa4b234e0d8f553044205d53b6/EGS_TheLastofUsPartIIRemastered_NaughtyDogLLCNixxesSoftwareIronGalaxy_S1_2560x1440-e93b7a99866b784c5fc948c1666df5e0",
+    "descripcion": "Vive una emotiva e impactante historia de venganza y supervivencia junto a Ellie en un mundo postapocalíptico."
+  },
+  { 
+    "id": "10", 
+    "titulo": "Super Smash Bros. Ultimate", 
+    "consola": "Switch",
+    "precio": "$1,300 MXN",
+    "img": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000012332/ac4d1fc9824876ce756406f0525d50c57ded4b2a666f6dfe40a6ac5c3563fad9",
+    "descripcion": "El crossover de peleas definitivo donde todos los personajes icónicos de los videojuegos se enfrentan en combate."
+  },
+  { 
+    "id": "11", 
+    "titulo": "Cyberpunk 2077", 
+    "consola": "PC",
+    "precio": "$800 MXN",
+    "img": "https://image.api.playstation.com/vulcan/ap/rnd/202111/3013/bxSj4jO0KBqUgAbH3zuNjCje.jpg",
+    "descripcion": "Conviértete en un mercenario urbano en la megaciudad de Night City, obsesionada con el poder y las modificaciones corporales."
+  },
+  { 
+    "id": "12", 
+    "titulo": "Red Dead Redemption 2", 
+    "consola": "Xbox",
+    "precio": "$850 MXN",
+    "img": "https://cdn1.epicgames.com/b30b6d1b4dfd4dcc93b5490be5e094e5/offer/RDR2476298253_Epic_Games_Wishlist_RDR2_2560x1440_V01-2560x1440-2a9ebe1f7ee202102555be202d5632ec.jpg",
+    "descripcion": "Una épica historia de forajidos en el salvaje oeste americano que narra el declive de la banda de Arthur Morgan."
+  },
+  { 
+    "id": "13", 
+    "titulo": "Gears 5", 
+    "consola": "Xbox",
+    "precio": "$750 MXN",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1097840/capsule_616x353.jpg?t=1684425784",
+    "descripcion": "Acompaña a Kait Diaz a descubrir sus lazos familiares con el enemigo mientras el mundo se desmorona en una guerra total."
+  },
+  { 
+    "id": "14", 
+    "titulo": "Animal Crossing: NH", 
+    "consola": "Switch",
+    "precio": "$1,150 MXN",
+    "img": "https://animalcrossing.nintendo.com/new-horizons/assets/img/share-fb.jpg",
+    "descripcion": "Escapa a una isla desierta y crea tu propio paraíso personalizado recolectando, construyendo y conociendo vecinos adorables."
+  },
+  { 
+    "id": "15", 
+    "titulo": "Ghost of Tsushima", 
+    "consola": "PS5",
+    "precio": "$1,100 MXN",
+    "img": "https://img.asmedia.epimg.net/resizer/v2/OWB4JPZROFKERI2UGZCXBH6XPA.jpg?auth=c6fde6b2ee7566e93b59b81f078e4214cb9cf1f6598cf4a50a950a050cddec34&width=1472&height=828&smart=true",
+    "descripcion": "Protege la isla de Tsushima como Jin Sakai, un samurái que debe adoptar el camino del Fantasma para liberar a su pueblo."
+  }
+]
